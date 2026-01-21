@@ -12,7 +12,7 @@ I've developed a simple protocol that uses binary numbers from 1-bit to 4-bits t
 11 - Equilateral Triangle
 ```
 
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/fe861607b41a38178057b47773aa2a82db4836a7/Types%20of%20triangle.jpg" width="40%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/fe861607b41a38178057b47773aa2a82db4836a7/Types%20of%20triangle.jpg" width="50%">
 We're ignoring the lengths of the sides of the triangle, since it only affects the size of the final shape.
 
 ## 2 - Defining the angle
@@ -34,6 +34,19 @@ Examples of commonly used angles:
 180° - 1110
 ```
 
+The above command can be used as follows:
+1. To define the top angle of the triangle
+2. To rotate the initial triangle (Anti-clockwise direction)
+
+The following commands initializes a 60 ° isosceles triangle and rotates it 90 °.
+
+```
+00   (Isosceles Triangle)
+0100 (Angle 60°)
+1000 (Rotation 90°)
+```
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Rotation.png" width="40%">
+
 ## 3 - Manipulating the triangle
 ```
 100 - Flip Left Once
@@ -45,6 +58,18 @@ Examples of commonly used angles:
 111 - Flip Down and Loop
 ```
 
-The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the given direction.
+The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the side facing the given direction.
 
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Example.png" width="40%">
+
+The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
+
+## Shapes using the loop operation
+### Circle
+```
+00   (Isosceles Triangle)
+0001 (Angle 15°)
+0000 (Rotation 0°)
+011  (Flip Right and Loop)
+```
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Circle.png" width="40%">
