@@ -72,4 +72,4 @@ The loop operations repeats the above process until it collides with another tri
 0000 (Rotation 0°)
 011  (Flip Right and Loop)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Circle.png" width="50%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Circles.png" width="50%">
