@@ -12,8 +12,7 @@ I've developed a simple protocol that uses binary numbers from 1-bit to 4-bits t
 11 - Equilateral Triangle
 ```
 
-![Alt Text](https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/fe861607b41a38178057b47773aa2a82db4836a7/Types%20of%20triangle.jpg)
-
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/fe861607b41a38178057b47773aa2a82db4836a7/Types%20of%20triangle.jpg" width="40%">
 We're ignoring the lengths of the sides of the triangle, since it only affects the size of the final shape.
 
 ## 2 - Defining the angle
@@ -48,4 +47,4 @@ Examples of commonly used angles:
 
 The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the given direction.
 
-![Alt Text](https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Examples.png)
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Examples.png" width="40%">
