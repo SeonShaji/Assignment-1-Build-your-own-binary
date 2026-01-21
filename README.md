@@ -60,6 +60,8 @@ The following commands initializes a 60 ° isosceles triangle and rotates it 90 
 
 The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the given side. 
 
+Note: Because triangles can be rotated or flipped, 'left' and 'right' become relative. To reduce the complexity we can choose the side that most closely aligns with a cardinal direction (Up, Down, Left, or Right), ensuring predictable transformations regardless of the triangle's current rotation.
+
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Example.png" width="40%">
 
 The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
@@ -70,7 +72,7 @@ The loop operations repeats the above process until it collides with another tri
 00   (Isosceles Triangle)
 1000 (Angle 90°)
 0011 (Rotation 45°)
-010  (Flip Down)
+010/001  (Flip Down / Flip Right) 
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="80%">
 
@@ -85,10 +87,18 @@ The loop operations repeats the above process until it collides with another tri
 
 ### Trapezoid
 ```
-00   (Isosceles Triangle)
-0100 (Angle 60°)
+11   (Equilateral Triangle)
+0100 (Angle 60°) (Redundant)
 0000 (Rotation 0°)
 001  (Flip Right)
 001  (Flip Right)
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Trapezoid.png" width="80%">
+
+### Star/Starburst
+```
+10   (Scalene larger left)
+0100 (Angle 60°)
+110  (Flip Left and Loop)
+```
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Star.png" width="80%">
