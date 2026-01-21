@@ -64,7 +64,16 @@ The above commands takes the initial triangle(or the last duplicated triangle) c
 
 The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
 
-## Shapes using the loop operation
+## Examples
+### Trapezoid
+```
+00   (Isosceles Triangle)
+1000 (Angle 90°)
+0011 (Rotation 45°)
+010  (Flip Down)
+```
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="40%">
+
 ### Circle
 ```
 00   (Isosceles Triangle)
@@ -72,4 +81,4 @@ The loop operations repeats the above process until it collides with another tri
 0000 (Rotation 0°)
 011  (Flip Right and Loop)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Circles.png" width="50%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Circles.png" width="40%">
