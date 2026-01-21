@@ -49,18 +49,18 @@ The following commands initializes a 60 ° isosceles triangle and rotates it 90 
 
 ## 3 - Manipulating the triangle
 ```
-100 - Mirror Left Once
-010 - Mirror Down Once
-001 - Mirror Right Once
+100 - Flip Left Once
+010 - Flip Down Once
+001 - Flip Right Once
 
-110 - Mirror Left and Loop
-011 - Mirror Right and Loop
-111 - Mirror Down and Loop
+110 - Flip Left and Loop
+011 - Flip Right and Loop
+111 - Flip Down and Loop
 ```
 
-The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and mirrors it along the given side. 
+The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the given side. 
 
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Mirror%20Once%20Example.png" width="40%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Example.png" width="40%">
 
 The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
 
@@ -70,7 +70,7 @@ The loop operations repeats the above process until it collides with another tri
 00   (Isosceles Triangle)
 1000 (Angle 90°)
 0011 (Rotation 45°)
-010  (Mirror Down)
+010  (Flip Down)
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="80%">
 
@@ -79,7 +79,7 @@ The loop operations repeats the above process until it collides with another tri
 00   (Isosceles Triangle)
 0001 (Angle 15°)
 0000 (Rotation 0°)
-011  (Mirror Right and Loop)
+011  (Flip Right and Loop)
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Circles.png" width="40%">
 
@@ -88,7 +88,7 @@ The loop operations repeats the above process until it collides with another tri
 00   (Isosceles Triangle)
 0100 (Angle 60°)
 0000 (Rotation 0°)
-001  (Mirror Right)
-001  (Mirror Right)
+001  (Flip Right)
+001  (Flip Right)
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Trapezoid.png" width="80%">
