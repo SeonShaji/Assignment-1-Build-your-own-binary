@@ -58,7 +58,7 @@ The following commands initializes a 60 ° isosceles triangle and rotates it 90 
 111 - Flip Down and Loop
 ```
 
-The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the side facing the given direction.
+The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the given side. 
 
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Example.png" width="40%">
 
@@ -72,7 +72,7 @@ The loop operations repeats the above process until it collides with another tri
 0011 (Rotation 45°)
 010  (Flip Down)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="40%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="80%">
 
 ### Circle
 ```
