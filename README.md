@@ -47,4 +47,4 @@ Examples of commonly used angles:
 
 The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the given direction.
 
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Examples.png" width="40%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Example.png" width="40%">
