@@ -109,6 +109,7 @@ After performing a flip operation you can change the type of the new triangle by
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/_Stars.png" width="60%">
 
 ## Advanced Examples
+### Ostrich?
 ```
 00       (Isosceles Triangle)
 1000     (Angle 90°)
