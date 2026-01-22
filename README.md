@@ -95,10 +95,40 @@ The loop operations repeats the above process until it collides with another tri
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Trapezoid.png" width="80%">
 
-### Star/Starburst
+### Star/Sunburst
 ```
 10   (Scalene larger left)
 0100 (Angle 60°)
 110  (Flip Left and Loop)
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/_Stars.png" width="80%">
+
+## Tasks
+
+### 1. Rectangle 
+Note: Flipping a right angle triangle produces a kite instead of a rectangle
+
+### 2. Cat/Fox
+<details>
+  <summary>🔍 Hint: Click to see the Image</summary>
+  
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Cat.png" width="80%">
+
+</details>
+
+
+### 3. Bat
+<details>
+  <summary>🔍 Hint: Click to see the Image</summary>
+  
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Bat.png" width="80%">
+
+</details>
+
+### 4. Snow Cone
+<details>
+  <summary>🔍 Hint: Click to see the Image</summary>
+  
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="80%">
+
+</details>
