@@ -46,7 +46,7 @@ The following commands initializes a 60 ° isosceles triangle and rotates it 90 
 0100 (Angle 60°)
 1000 (Rotation 90°)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/fe861607b41a38178057b47773aa2a82db4836a7/Rotation.png" width="40%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/223190854e5f62762c0579b3ae57ae4049cc37e7/Images/Rotation.png" width="40%">
 
 ## 3 - Manipulating the triangle
 ```
