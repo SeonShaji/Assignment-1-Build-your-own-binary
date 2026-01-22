@@ -1,6 +1,7 @@
-Very cool. I tried the cat/fox one. I think 11 Equilateral Triangle
-0001 Rotate 30 deg
+Very cool. I tried the cat/fox one. I think 
 ```
+11 Equilateral Triangle
+0001 Rotate 30 deg
 010 - Flip Down Once
 010 - Flip Down Once
 010 - Flip Down Once
