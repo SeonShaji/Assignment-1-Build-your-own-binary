@@ -134,7 +134,7 @@ After performing a flip operation you can change the type of the new triangle by
 ## Tasks (Easy)
 
 ### 1. Rectangle 
-Note: Flipping a right angle triangle produces a kite instead of a rectangle
+Note: Flipping a right angle triangle produces a kite, not a rectangle
 
 ### 2. Cat/Fox
 <details>
