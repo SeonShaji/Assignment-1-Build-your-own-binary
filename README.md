@@ -1,4 +1,4 @@
-# IMGD 5010 Assignment 1 Build your own binary : **TRIANGLES 101**
+# IMGD 5010 Assignment 1 Build your own binary : **ORIGAMI 101**
 
 The triangle is the universal language of the GPU. Because it is the simplest shape to calculate, it forms the essential geometry for everything we render, from low-poly sprites to vast, cinematic environments.
 
