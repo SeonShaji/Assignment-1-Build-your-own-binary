@@ -50,6 +50,7 @@ The following commands initializes a 60 ° isosceles triangle and rotates it 90 
 
 ## 3 - Manipulating the triangle
 ```
+000 - Flip Up Once
 100 - Flip Left Once
 010 - Flip Down Once
 001 - Flip Right Once
@@ -67,7 +68,7 @@ Note: Because triangles can be rotated or flipped, 'left' and 'right' become rel
 
 The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
 
-## Advanced Combinations
+## 4 - Advanced Combinations
 After performing a flip operation you can change the type of the new triangle by using the 2-bit operations. You can also set the measure of the angle opposite to the flipped side using the 4-bit operations.
 
 ## Basic Examples
@@ -76,7 +77,7 @@ After performing a flip operation you can change the type of the new triangle by
 00   (Isosceles Triangle)
 1000 (Angle 90°)
 0011 (Rotation 45°)
-010/001  (Flip Down) 
+010/001  (Flip Down/Flip Right) 
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="80%">
 
@@ -92,7 +93,7 @@ After performing a flip operation you can change the type of the new triangle by
 ### Trapezoid
 ```
 11   (Equilateral Triangle)
-0100 (Angle 60°) (Redundant)
+0100 (Angle 60°) (Redundant since equilateral)
 0000 (Rotation 0°)
 001  (Flip Right)
 001  (Flip Right)
@@ -108,6 +109,26 @@ After performing a flip operation you can change the type of the new triangle by
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/_Stars.png" width="60%">
 
 ## Advanced Examples
+```
+00       (Isosceles Triangle)
+1000     (Angle 90°)
+1011     (Rotation 135°)
+001      (Flip Right)
+000      (Flip Up)
+000      (Flip Left)
+000      (Flip Up)
+001      (Flip Right)
+000      (Flip Up)
+11       (Change to Equilateral Triangle)
+0100     (Set Angle opposite to flipped side to 60) (Redundant since equilateral)
+001      (Flip Right)
+10       (Change to Scalene Left Larger)
+1000     (Set Angle opposite to flipped side to 90)
+000      (Flip Up)
+001      (Flip Right)
+010      (Flip Down)
+```
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Ostrich.png" width="60%">
 
 ## Tasks
 
