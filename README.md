@@ -116,16 +116,7 @@ Note: Flipping a right angle triangle produces a kite instead of a rectangle
 
 </details>
 
-
-### 3. Bat
-<details>
-  <summary>🔍 Hint: Click to see the Image</summary>
-  
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Bat.png" width="40%">
-
-</details>
-
-### 4. Snow Cone
+### 3. Snow Cone
 <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
