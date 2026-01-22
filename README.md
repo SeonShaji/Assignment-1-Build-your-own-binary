@@ -72,7 +72,7 @@ The loop operations repeats the above process until it collides with another tri
 00   (Isosceles Triangle)
 1000 (Angle 90°)
 0011 (Rotation 45°)
-010/001  (Flip Down / Flip Right) 
+010/001  (Flip Down) 
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="80%">
 
