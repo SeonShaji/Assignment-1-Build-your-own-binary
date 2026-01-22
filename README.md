@@ -93,7 +93,7 @@ The loop operations repeats the above process until it collides with another tri
 001  (Flip Right)
 001  (Flip Right)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/trapezoid.png" width="80%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/trapezoid.png" width="60%">
 
 ### Star/Sunburst
 ```
