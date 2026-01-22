@@ -88,7 +88,7 @@ After performing a flip operation you can change the type of the new triangle by
 0000 (Rotation 0°)
 011  (Flip Right and Loop)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Circles.png" width="40%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/Circles.png" width="40%">
 
 ### Trapezoid
 ```
@@ -98,7 +98,7 @@ After performing a flip operation you can change the type of the new triangle by
 001  (Flip Right)
 001  (Flip Right)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/trapezoid.png" width="60%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/trapezoid.png" width="60%">
 
 ### Star/Sunburst
 ```
@@ -106,7 +106,7 @@ After performing a flip operation you can change the type of the new triangle by
 0100 (Angle 60°)
 110  (Flip Left and Loop)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/_Stars.png" width="60%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/_Stars.png" width="60%">
 
 ## Advanced Examples
 ### Ostrich?
@@ -129,7 +129,7 @@ After performing a flip operation you can change the type of the new triangle by
 001      (Flip Right)
 010      (Flip Down)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Ostrich.png" width="30%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/Ostrich.png" width="30%">
 
 ## Tasks (Easy)
 
@@ -140,7 +140,7 @@ Note: Flipping an isosceles right angle triangle produces a kite, not a rectangl
 <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Cat.png" width="40%">
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/Cat.png" width="40%">
 
 </details>
 
@@ -148,7 +148,7 @@ Note: Flipping an isosceles right angle triangle produces a kite, not a rectangl
 <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="30%">
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/SnowCone.png" width="30%">
 
 </details>
 
@@ -157,6 +157,6 @@ Note: Flipping an isosceles right angle triangle produces a kite, not a rectangl
 <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Dumbbell.png" width="60%">
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/Dumbbell.png" width="60%">
 
 </details>
