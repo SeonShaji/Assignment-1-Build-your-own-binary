@@ -112,7 +112,7 @@ Note: Flipping a right angle triangle produces a kite instead of a rectangle
 <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Cat.png" width="80%">
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Cat.png" width="70%">
 
 </details>
 
@@ -121,7 +121,7 @@ Note: Flipping a right angle triangle produces a kite instead of a rectangle
 <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Bat.png" width="80%">
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Bat.png" width="70%">
 
 </details>
 
@@ -129,6 +129,6 @@ Note: Flipping a right angle triangle produces a kite instead of a rectangle
 <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="80%">
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="50%">
 
 </details>
