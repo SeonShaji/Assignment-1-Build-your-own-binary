@@ -13,7 +13,7 @@ I've developed a simple protocol that uses binary numbers from 1-bit to 4-bits t
 ```
 
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/fe861607b41a38178057b47773aa2a82db4836a7/Types%20of%20triangle.jpg" width="50%">
-We're ignoring the lengths of the sides of the triangle, since it only affects the size of the final shape.
+We're ignoring the exact measure of the lengths of the sides of the triangle, since it only affects the size of the final shape and not the pattern.
 
 ## 2 - Defining the angle
 ```
