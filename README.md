@@ -154,9 +154,9 @@ Note: Flipping a right angle triangle produces a kite instead of a rectangle
 
 ## Tasks (Hard)
 1. Dumbbell
-2. <details>
+<details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
-  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="30%">
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Dumbbell.png" width="30%">
 
 </details>
