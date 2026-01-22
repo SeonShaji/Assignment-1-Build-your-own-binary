@@ -67,7 +67,7 @@ Note: Because triangles can be rotated or flipped, make sure to keep track of th
 
 The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
 
-## Examples (Basic)
+## Basic Examples
 ### Square
 ```
 00   (Isosceles Triangle)
@@ -104,6 +104,8 @@ The loop operations repeats the above process until it collides with another tri
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/_Stars.png" width="60%">
 
+## Advanced Examples
+
 ## Tasks
 
 ### 1. Rectangle 
@@ -124,5 +126,3 @@ Note: Flipping a right angle triangle produces a kite instead of a rectangle
   <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="30%">
 
 </details>
-
-## Examples (Advanced)
