@@ -131,7 +131,7 @@ After performing a flip operation you can change the type of the new triangle by
 ```
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Ostrich.png" width="30%">
 
-## Tasks
+## Tasks (Easy)
 
 ### 1. Rectangle 
 Note: Flipping a right angle triangle produces a kite instead of a rectangle
@@ -146,6 +146,15 @@ Note: Flipping a right angle triangle produces a kite instead of a rectangle
 
 ### 3. Snow Cone
 <details>
+  <summary>🔍 Hint: Click to see the Image</summary>
+  
+  <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="30%">
+
+</details>
+
+## Tasks (Hard)
+1. Dumbbell
+2. <details>
   <summary>🔍 Hint: Click to see the Image</summary>
   
   <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/SnowCone.png" width="30%">
