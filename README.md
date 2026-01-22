@@ -61,11 +61,14 @@ The following commands initializes a 60 ° isosceles triangle and rotates it 90 
 
 The above commands takes the initial triangle(or the last duplicated triangle) creates a copy and flips it along the given side. 
 
-Note: Because triangles can be rotated or flipped, make sure to keep track of the direction of the sides.
+Note: Because triangles can be rotated or flipped, 'left' and 'right' become relative. To reduce the complexity we can choose the side that most closely aligns with a cardinal direction (Up, Down, Left, or Right), ensuring predictable transformations regardless of the triangle's current rotation.
 
 <img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Example.png" width="40%">
 
 The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
+
+## Advanced Combinations
+After performing a flip operation you can change the type of the new triangle by using the 2-bit operations. You can also set the measure of the angle opposite to the flipped side using the 4-bit operations.
 
 ## Basic Examples
 ### Square
