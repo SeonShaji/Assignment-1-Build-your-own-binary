@@ -37,6 +37,7 @@ Examples of commonly used angles:
 The above command can be used as follows:
 1. To define the top angle of the triangle
 2. To rotate the initial triangle (Anti-clockwise direction)
+    Note: This operation can only be performed on the initial triangle
 
 The following commands initializes a 60 ° isosceles triangle and rotates it 90 °.
 
