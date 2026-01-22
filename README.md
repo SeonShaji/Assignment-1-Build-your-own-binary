@@ -102,7 +102,7 @@ The loop operations repeats the above process until it collides with another tri
 0100 (Angle 60°)
 110  (Flip Left and Loop)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/_Stars.png" width="80%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/_Stars.png" width="60%">
 
 ## Tasks
 
