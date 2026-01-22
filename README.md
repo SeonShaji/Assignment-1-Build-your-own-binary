@@ -79,7 +79,7 @@ After performing a flip operation you can change the type of the new triangle by
 0011 (Rotation 45°)
 010/001  (Flip Down/Flip Right) 
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Square.png" width="80%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/Square.png" width="80%">
 
 ### Circle
 ```
