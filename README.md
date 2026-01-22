@@ -128,7 +128,7 @@ After performing a flip operation you can change the type of the new triangle by
 001      (Flip Right)
 010      (Flip Down)
 ```
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Ostrich.png" width="60%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Ostrich.png" width="30%">
 
 ## Tasks
 
