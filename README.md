@@ -64,7 +64,7 @@ The above commands takes the initial triangle(or the last duplicated triangle) c
 
 Note: Because triangles can be rotated or flipped, 'left' and 'right' become relative. To reduce the complexity we can choose the side that most closely aligns with a cardinal direction (Up, Down, Left, or Right), ensuring predictable transformations regardless of the triangle's current rotation.
 
-<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/main/Flip%20Once%20Example.png" width="40%">
+<img src="https://github.com/SeonShaji/Assignment-1-Build-your-own-binary/blob/7e0f1404980ce5f0294d8dc06709647247ad5dec/Images/Flip%20Once%20Example.png" width="40%">
 
 The loop operations repeats the above process until it collides with another triangle. This process could produce an endless cycle based on the setup of the initial triangle.
 
